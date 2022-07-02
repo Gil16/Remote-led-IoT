@@ -163,5 +163,6 @@ Create a Wix account and Create New Site -> Edit Site -> Add -> Embed Code -> pa
 
 ## References
 https://catalog.us-east-1.prod.workshops.aws/workshops/5b127b2f-f879-48b9-9dd0-35aff98c7bbc/en-US/module1
+  
 https://hackernoon.com/cloud-home-automation-series-part-1-connect-esp32-to-aws-iot-with-arduino-code-lkhp36vx?ref=hackernoon.com
 
